@@ -54,7 +54,6 @@ File: <input type="file" name="userfile" />
       <input type="submit" name="submit" value="Submit" />
 </form>
 <p>Note: files with the same name with overwrite any existing files.</p>
-<p>Here are the currently uploaded files:</p>
 
 </body>
 </html>
