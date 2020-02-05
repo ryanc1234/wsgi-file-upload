@@ -12,4 +12,4 @@ You may edit the directectory in upload.py and yml file. Currently it is set to 
 
 ## TODO 
 
-Removed path variable bc it was a param. Should be a variable though.
+>> Add file repo and all site fuctionality / templates
