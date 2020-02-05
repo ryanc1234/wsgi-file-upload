@@ -1,20 +1,15 @@
-# wsgi-file-upload
+# Based on https://github.com/thejimmyg/wsgi-file-upload
 
-Simple Python WSGI application to let you upload files
+Simplest Python and Flask application to upload files... 
 
-## License
+Added them into a Docker container.
 
-[GNU AGPL3](http://www.gnu.org/licenses/agpl-3.0.html)
+## Ryan Curtis
+## Feb 4 2020
 
-## Usage
+You may edit the port in the upload.py 
+You may edit the directectory in upload.py and yml file. Currently it is set to '/usr'
 
-~~~
-python upload.py PORT UPLOAD_PATH
-~~~
+## TODO 
 
-For example:
-
-~~~
-python upload.py 8082 /tmp/upload
-~~~
-
+Removed path variable bc it was a param. Should be a variable though.
